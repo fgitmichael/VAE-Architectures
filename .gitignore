@@ -1,0 +1,7 @@
+logs/
+__pycache__/
+.vscode/
+*.log
+*.out
+code/memory/flag.py
+code/play.py
